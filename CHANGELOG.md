@@ -2,6 +2,8 @@
 
 ## 0.3.2 - Unreleased
 
+- Update Sparkle to 2.9.6 for installer security fixes and reliable update-window focus in the menu bar app.
+
 ## 0.3.1 - 2026-07-06
 
 - Flatten the menu styling to look native: the stats card loses its rounded border and background, legend chips drop their capsule pills in favor of plain dot + text, and the workflow section divider uses the standard system separator.
